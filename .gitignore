@@ -1,0 +1,8 @@
+#Python cache files
+*.pyc
+
+#Intelij folder
+.idea
+
+#Database file
+*.db
